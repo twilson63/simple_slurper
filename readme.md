@@ -34,4 +34,7 @@ This script uses MongoMapper and Plucky to request a set of documents that meet 
 
     results = ReportCard.where(:physicians.gt => 200).all
     
-    
+
+## Contribute or Distribution
+
+SEE LICENSE for licensing    
