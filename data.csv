@@ -1,0 +1,150 @@
+VISN,VISN Name,Facility Name,City,State,Staffing: Physicians,Staffing: Nursing,Staffing: Other Health Professionals
+1,VA New England Health Care System,VA Connecticut HCS,West Haven,CT,239,449,580
+1,VA New England Health Care System,Edith Nourse Rogers Memorial Veterans Hospital,Bedford,MA,46,243,270
+1,VA New England Health Care System,"VA Boston HCS
+W Roxbury Brockton Jamaica Plns",West Roxbury,MA,256,799,1064
+1,VA New England Health Care System,VAMC,Northampton,MA,29,119,186
+1,VA New England Health Care System,VAMC/RO,Togus,ME,74,251,360
+1,VA New England Health Care System,VAMC,Manchester,NH,34,135,185
+1,VA New England Health Care System,VAMC,Providence,RI,88,212,277
+1,VA New England Health Care System,VAM/ROC,White River Junction,VT,69,155,189
+2,VA Healthcare Network Upstate New York,Samuel S. Stratton VAMC ,Albany,NY,112,331,332
+2,VA Healthcare Network Upstate New York,VA Western New York HCS Buffalo Batavia,Buffalo,NY,132,497,482
+2,VA Healthcare Network Upstate New York,VAMC,Bath,NY,18,150,137
+2,VA Healthcare Network Upstate New York,VAMC,Canandaigua ,NY,33,182,231
+2,VA Healthcare Network Upstate New York,VAMC,Syracuse,NY,130,445,333
+3,VA NY/NJ Veterans Healthcare Network,VA New Jersey HCS East Orange Campus,East Orange,NJ,192,580,760
+3,VA NY/NJ Veterans Healthcare Network,VAMC,Bronx ,NY,171,331,555
+3,VA NY/NJ Veterans Healthcare Network,"VA NY Harbor HCS
+NY Harbor Brooklyn",New York Harbor,NY,280,778,"1,000"
+3,VA NY/NJ Veterans Healthcare Network,VA Hudson Valley HCS Montrose Castle Pt,Montrose,NY,81,271,427
+3,VA NY/NJ Veterans Healthcare Network,VAMC,Northport,NY,123,366,579
+4,VA Stars & Stripes Healthcare Network,VAM&RO,Wilmington,DE,50,238,211
+4,VA Stars & Stripes Healthcare Network,James E. Van Zandt VA Medical Center ,Altoona,PA,27,142,142
+4,VA Stars & Stripes Healthcare Network,VAMC,Butler,PA,18,119,129
+4,VA Stars & Stripes Healthcare Network,VAMC,Coatesville,PA,36,267,325
+4,VA Stars & Stripes Healthcare Network,VAMC,Erie,PA,31,158,134
+4,VA Stars & Stripes Healthcare Network,VAMC,Lebanon,PA,63,276,389
+4,VA Stars & Stripes Healthcare Network,VAMC,Philadelphia,PA,228,478,470
+4,VA Stars & Stripes Healthcare Network,"VA Pittsburgh HCS
+Heinz Univ Dr Highld Dr",Pittsburgh,PA,176,831,829
+4,VA Stars & Stripes Healthcare Network,VAMC,Wilkes-Barre,PA,78,223,323
+4,VA Stars & Stripes Healthcare Network,Louis A. Johnson VAMC,Clarksburg,WV,45,185,214
+5,VA Capitol Health Care Network,VAMC,Washington,DC,179,515,621
+5,VA Capitol Health Care Network,"VA Maryland HCS
+Baltimore Perry Pt",Baltimore,MD,198,667,749
+5,VA Capitol Health Care Network,VAMC,Martinsburg,WV,60,315,367
+6,VA Mid-Atlantic Health Care Network,VAMC,Asheville,NC,88,368,395
+6,VA Mid-Atlantic Health Care Network,VAMC,Durham,NC,206,553,680
+6,VA Mid-Atlantic Health Care Network,VAMC,Fayetteville,NC,73,229,245
+6,VA Mid-Atlantic Health Care Network,W.G. (Bill) Hefner VA Medical Center,Salisbury,NC,144,370,559
+6,VA Mid-Atlantic Health Care Network,VAMC,Hampton,VA,87,373,378
+6,VA Mid-Atlantic Health Care Network,Hunter Holmes McGuire VAMC,Richmond,VA,175,636,644
+6,VA Mid-Atlantic Health Care Network,VAMC,Salem,VA,91,396,455
+6,VA Mid-Atlantic Health Care Network,VAMC,Beckley,WV,28,140,188
+7,VA Southeast Network,VAMC,Birmingham,AL,177,433,503
+7,VA Southeast Network,Central Alabama Veterans HCS Tuskeegee Montgomery,Montgomery,AL,68,300,399
+7,VA Southeast Network,VAMC,Tuscaloosa,AL,26,218,240
+7,VA Southeast Network,VAMC,Atlanta,GA,233,599,635
+7,VA Southeast Network,VAMC,Augusta,GA,130,566,617
+7,VA Southeast Network,Carl Vinson VA Medical Center,Dublin,GA,32,154,261
+7,VA Southeast Network,Ralph H. Johnson VAMC,Charleston,SC,130,361,336
+7,VA Southeast Network,Wm. Jennings Bryan Dorn VAMC,Columbia,SC,112,381,512
+8,VA Sunshine Healthcare Network,VAMC,Bay Pines,FL,258,771,765
+8,VA Sunshine Healthcare Network,N FLA/S GA Veterans HS Gainesville Lake Cty,Gainesville,FL,314,1050,1361
+8,VA Sunshine Healthcare Network,VAMC,Miami,FL,195,553,812
+8,VA Sunshine Healthcare Network,East Central Florida HCS,Orlando,FL,122,297,499
+8,VA Sunshine Healthcare Network,James A. Haley VA Medical Center,Tampa,FL,313,"1,128","1,254"
+8,VA Sunshine Healthcare Network,VAMC,West Palm Beach,FL,166,398,691
+8,VA Sunshine Healthcare Network,VAMC,San Juan,PR,298,822,894
+9,VA Mid South Healthcare Network,VAMC,Lexington,KY,104,400,458
+9,VA Mid South Healthcare Network,VAMC,Louisville,KY,113,387,368
+9,VA Mid South Healthcare Network,VAMC,Memphis,TN,144,401,612
+9,VA Mid South Healthcare Network,VAMC,Mountain Home,TN,127,414,403
+9,VA Mid South Healthcare Network,"Tennessee Valley HCS
+Nashville Murfreesboro ",Nashville,TN,271,890,814
+9,VA Mid South Healthcare Network,VAMC,Huntington,WV,77,233,301
+10,VA Health Care System of Ohio,VAMC,Chillicothe,OH,40,284,281
+10,VA Health Care System of Ohio,VAMC,Cincinnati,OH,149,421,420
+10,VA Health Care System of Ohio,"Louis Stokes VA Medical Center
+Cleveland Brecksville",Cleveland,OH,256,903,906
+10,VA Health Care System of Ohio,Chalmers Wylie Outpatient Clinic,Columbus,OH,49,98,141
+10,VA Health Care System of Ohio,VAMC,Dayton,OH,99,417,499
+11,Veterans In Partnership,VA Illiana HCS,Danville,IL,56,321,422
+11,Veterans In Partnership,VA Northern Indiana HCS Marion Ft Wayne,Marion,IN,45,267,356
+11,Veterans In Partnership,Richard L. Roudebush VA Medical Center,Indianapolis,IN,146,560,585
+11,Veterans In Partnership,Ann Arbor VA Ann Arbor HCS,Ann Arbor,MI,184,408,445
+11,Veterans In Partnership,VAMC,Battle Creek,MI,49,229,400
+11,Veterans In Partnership,John D. Dingell VA Medical Center,Detroit,MI,134,376,551
+11,Veterans In Partnership,Aleda E. Lutz VA Medical Center,Saginaw,MI,30,194,186
+12,The Great Lakes Health Care System,VA Chicago HCS; (Jessie Brown),"Chicago, West Side ",IL,213,467,501
+12,The Great Lakes Health Care System,Edward Hines Jr. VA Hospital,Hines,IL,224,694,852
+12,The Great Lakes Health Care System,VAMC,North Chicago,IL,99,265,420
+12,The Great Lakes Health Care System,VAMC,Iron Mountain,MI,27,127,107
+12,The Great Lakes Health Care System,William S. Middleton Memorial Veterans Hospital,Madison,WI,122,358,385
+12,The Great Lakes Health Care System,Clement J. Zablocki VAMC,Milwaukee,WI,229,701,706
+12,The Great Lakes Health Care System,VAMC,Tomah,WI,28,158,272
+15,VA Heartland Network,VA Eastern Kansas HCS Topeka Leavenworth,Topeka,KS,82,328,555
+15,VA Heartland Network,Robert J. Dole Department of Veterans Affairs Medical and Regional Office Center,Wichita,KS,47,198,251
+15,VA Heartland Network,Harry S. Truman Memorial,Columbia,MO,70,252,409
+15,VA Heartland Network,VAMC,Kansas City,MO,102,301,406
+15,VA Heartland Network,VAMC,Marion,IL,60,223,313
+15,VA Heartland Network,John J. Pershing VA Medical Center,Poplar Bluff,MO,24,84,153
+15,VA Heartland Network,St Louis VAMC St Louis Jefferson Barracks,St. Louis,MO,196,411,664
+16,South Central VA Health Care Network,VAMC,Fayetteville,AR,75,272,310
+16,South Central VA Health Care Network,"Central Arkansas Veterans HCS
+Little Rock Little Rock N",Little Rock,AR,222,759,817
+16,South Central VA Health Care Network,VAMC,Alexandria,LA,60,356,283
+16,South Central VA Health Care Network,VAMC,New Orleans,LA,98,183,199
+16,South Central VA Health Care Network,Overton Brooks VA Medical Center,Shreveport,LA,107,364,375
+16,South Central VA Health Care Network,VA Gulf Coast Veterans HCS,Biloxi,MS,103,345,569
+16,South Central VA Health Care Network,G.V. (Sonny) Montgomery VA Medical Center,Jackson,MS,137,462,595
+16,South Central VA Health Care Network,VAMC,Muskogee,OK,67,228,209
+16,South Central VA Health Care Network,VAMC,Oklahoma City,OK,164,426,457
+16,South Central VA Health Care Network,VAMC,Houston,TX,271,926,995
+17,VA Heart of Texas Health Care Network,VA North Texas HCS,Dallas,TX,261,960,"1,372"
+17,VA Heart of Texas Health Care Network,South Texas Veterans HCS  SanAntonio Kerrville,San Antonio,TX,383,904,703
+17,VA Heart of Texas Health Care Network,"Central Texas Veterans HCS
+Temple Waco Marlin",Temple,TX,192,65,761
+18,VA Southwest Health Care Network,Carl T. Hayden VA Medical Center,Phoenix,AZ,156,554,612
+18,VA Southwest Health Care Network,Northern Arizona VA HCS,Prescott,AZ,29,162,185
+18,VA Southwest Health Care Network,Southern Arizona VA HCS,Tucson,AZ,126,481,595
+18,VA Southwest Health Care Network,New Mexico HCS,Albuquerque,NM,152,458,579
+18,VA Southwest Health Care Network,Amarillo VA HCS,Amarillo,TX,51,231,260
+18,VA Southwest Health Care Network,West Texas VA HCS,Big Spring,TX,18,114,107
+18,VA Southwest Health Care Network,El Paso VA HCS,El Paso,TX,41,73,97
+19,Rocky Mountain Network,Eastern Colorado HCS Denver Pueblo,Denver,CO,178,413,508
+19,Rocky Mountain Network,VAMC,Grand Junction,CO,27,127,107
+19,Rocky Mountain Network,VA Montana HCS,Fort Harrison,MT,55,193,139
+19,Rocky Mountain Network,VA Salt Lake City HCS,Salt Lake City,UT,158,396,378
+19,Rocky Mountain Network,VAM/ROC,Cheyenne,WY,28,100,116
+19,Rocky Mountain Network,VAMC,Sheridan,WY,21,116,145
+20,Northwest Network,Alaska VA HCS and Regional Office,Anchorage,AK,32,119,113
+20,Northwest Network,VAMC,Boise,ID,52,178,219
+20,Northwest Network,VAMC,Portland,OR,223,664,715
+20,Northwest Network,VA Roseburg HCS,Roseburg,OR,36,212,228
+20,Northwest Network,Southern Oregon Rehab Ctr & Clinics,White City,OR,20,63,102
+20,Northwest Network,VA Puget Sound HCS  Seattle American Lake,Seattle,WA,219,759,868
+20,Northwest Network,VAMC,Spokane ,WA,48,208,193
+20,Northwest Network,Jonathan M. Wainwright Memorial VA Medical Center,Walla Walla,WA,13,76,112
+21,Sierra Pacific Network,VA Central California HCS,Fresno,CA,74,191,304
+21,Sierra Pacific Network,VA Northern California HCS Martinez Sacramento,"Martinez, East Bay",CA,216,449,471
+21,Sierra Pacific Network,"VA Palo Alto HCS
+PaloAlto MenloPk Livermore",Palo Alto,CA,276,922,974
+21,Sierra Pacific Network,VAMC,San Francisco,CA,220,496,515
+21,Sierra Pacific Network,VA Pacific Islands HCSSpark M. Matsunaga VA Medical & Regional Office Center,Honolulu,HI,52,123,140
+21,Sierra Pacific Network,VA Sierra Nevada HCS,Reno,NV,61,244,230
+22,Desert Pacific Healthcare Network,VA Loma Linda HCS,Loma Linda,CA,166,535,625
+22,Desert Pacific Healthcare Network,VA Long Beach HCS,Long Beach,CA,177,521,631
+22,Desert Pacific Healthcare Network,VA Greater Los Angeles HCS (GLA),Los Angeles,CA,376,970,"1,157"
+22,Desert Pacific Healthcare Network,VA San Diego HCS,San Diego,CA,271,685,613
+22,Desert Pacific Healthcare Network,VA Southern Nevada HCS,Las Vegas,NV,114,231,353
+23,VA Midwest Health Care Network,VA Nebraska Western Iowa HCS  Omaha Grand Is Lincoln,Omaha,NE,165,725,878
+23,VA Midwest Health Care Network,VA Central Iowa HCS   DesMoines Knoxville,Des Moines,IA,+,+,+
+23,VA Midwest Health Care Network,VAMC,Iowa City,IA,145,344,441
+23,VA Midwest Health Care Network,VAMC,Minneapolis,MN,216,902,988
+23,VA Midwest Health Care Network,VAMC,St. Cloud,MN,30,319,325
+23,VA Midwest Health Care Network,VAM/RO,Fargo,ND,52,221,173
+23,VA Midwest Health Care Network,"VA Black Hills HCS
+Ft Meade Hot Springs",Fort Meade ,SD,44,254,240
+23,VA Midwest Health Care Network,VAM/ROC,Sioux Falls,SD,44,239,213
